@@ -1,3 +1,12 @@
+[![GitHub stars](https://img.shields.io/github/stars/itsChris/SolviaOcrMyPdf.svg)](https://github.com/itsChris/SolviaOcrMyPdf/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/itsChris/SolviaOcrMyPdf.svg)](https://github.com/itsChris/SolviaOcrMyPdf/network/members)
+[![Total Downloads](https://img.shields.io/packagist/dt/itsChris/SolviaOcrMyPdf.svg?style=flat-square)](https://packagist.org/packages/itsChris/SolviaOcrMyPdf)
+![License](https://img.shields.io/github/license/itsChris/SolviaOcrMyPdf)
+![Code size](https://img.shields.io/github/repo-size/itsChris/SolviaOcrMyPdf)
+![Top Language](https://img.shields.io/github/languages/top/itsChris/SolviaOcrMyPdf)
+![Languages](https://img.shields.io/github/languages/count/itsChris/SolviaOcrMyPdf)
+![Views](https://img.shields.io/github/search/itsChris/SolviaOcrMyPdf/SolviaOcrMyPdf)
+
 # Solvia OCR my PDF
 
 #### Brief:
