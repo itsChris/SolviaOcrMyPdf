@@ -145,5 +145,6 @@ vie | Vietnamese | [vie.traineddata](https://github.com/tesseract-ocr/tessdata/r
 yid | Yiddish | [yid.traineddata](https://github.com/tesseract-ocr/tessdata/raw/4.00/yid.traineddata)
 
 #### Libraries: 
-https://github.com/tesseract-ocr/tesseract 
+https://github.com/tesseract-ocr/tesseract
+
 https://github.com/tesseract-ocr/tessdata 
