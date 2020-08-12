@@ -21,7 +21,7 @@ Request **(Form-data)** :
  
  **Image:** Select postman UI file type
 
-![Alt](/SolviaOcrMyPdf/2020-08-12 15_57_26-Postman-OcrOnly.png "Sample")
+![Alt](/SolviaOcrMyPdf/2020-08-12-15_57_26-Postman-OcrOnly.png "Sample")
 
 ##### OcrMyPdf
 
@@ -31,7 +31,7 @@ Request **(Form-data)** :
  
  **Image:** Select postman UI file type
 
-![Alt](/SolviaOcrMyPdf/2020-08-12 15_54_03-Postman-OcrPdfFileReply.png "Sample")
+![Alt](/SolviaOcrMyPdf/2020-08-12-15_54_03-Postman-OcrPdfFileReply.png "Sample")
 
 
 **Tesseract Supported Language**
