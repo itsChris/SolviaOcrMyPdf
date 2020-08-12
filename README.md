@@ -1,16 +1,17 @@
 # Solvia OCR my PDF
 
 #### Brief:
-This proof of concet (POC) consists of how to implement Tesseract OCR engine in dotnetcore. 
+This proof of concept (POC) consists of how to implement Tesseract OCR engine in dotnetcore. 
 
 Two controllers were implemented. 
 
-The first controller (ocr) receives an image file and a language. Tesseract processes the image and tries to recognize the text according to the specified language. Afterwards the controller returns a string with the recognized text.
+The first controller (Ocr) receives an image file and a language. Tesseract processes the image and tries to recognize the text according to the specified language. Afterwards the controller returns a string with the recognized text.
 
 The second controller (OcrMyPdf) receives an image file and a language. Tesseract processes the image and tries to recognize the text according to the language specified. Afterwards the controller sends back a pdf file with OCR layer. 
 
 #### API Endpoints: 
 localhost:4321/api/ocr
+
 localhost:4321/api/ocrmypdf
 
 #### Example Usage 
@@ -21,7 +22,7 @@ Request **(Form-data)** :
  
  **Image:** Select postman UI file type
 
-![Alt](/SolviaOcrMyPdf/2020-08-12-15_57_26-Postman-OcrOnly.png "Sample")
+![Alt](/SolviaOcrMyPdf/2020-08-12-15_57_26-Postman-OcrOnly.png "Postman-Request-OcrImageOnly")
 
 ##### OcrMyPdf
 
@@ -31,7 +32,7 @@ Request **(Form-data)** :
  
  **Image:** Select postman UI file type
 
-![Alt](/SolviaOcrMyPdf/2020-08-12-15_54_03-Postman-OcrPdfFileReply.png "Sample")
+![Alt](/SolviaOcrMyPdf/2020-08-12-15_54_03-Postman-OcrPdfFileReply.png "Postman-Request-OcrImagePdfWithTextReply")
 
 
 **Tesseract Supported Language**
